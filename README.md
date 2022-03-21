@@ -1,16 +1,10 @@
-# animedoro
+# Animedoro
 
-A new Flutter project.
+AnimeDoro is a an timer app based on The Pomodoro Technique (a time management method developed by Francesco Cirillo in the late 1980s)
+It uses a timer to break work into intervals, typically 40 minutes in length, separated by short breaks.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I made this project to work on my flutter skills.
+This Deals with complex Flutter topics like stateless, stateful widgets, custom widgets, models,
+constants, app life cycle, etc.
